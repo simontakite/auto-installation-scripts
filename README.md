@@ -1,2 +1,2 @@
-autoinstallation.scripts
-========================
+Automatic installation scripts
+==============================
